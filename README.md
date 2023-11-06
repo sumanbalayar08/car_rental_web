@@ -1,23 +1,45 @@
-<div align='center'><img style="width:30%" src='https://user-images.githubusercontent.com/105128267/218077760-5694a4ac-4e37-4de7-b31f-268ccd27400a.png'/></div>
+# Project Name
 
-<h2>About the project</h2>
+Car Rental Frontend Design
 
-  <p>A <b>car rental</b> website is an online platform that allows users to rent cars for personal or business use. The website provides an easy-to-use interface for searching, comparing, and reserving cars from a wide selection of vehicles that vary in make, model, size, and price.</p>
+## Table of Contents
 
-<p>Credits for the design goes to <a href='https://xpeedstudio.com/'>XpeedStudio</a></p>
+1. [Introduction](#introduction)
+2. [Screenshots](#screenshots)
+3. [Installation](#installation)
 
-👉 Live Demo: <a href='https://car-rental-ten.vercel.app/'>Live Demo</a>
 
-<h3>Build with:</h3>
+## Introduction
 
-» Sass / Scss <br>
-» React JS
+Basic Frontend Design of a NewsLetter Website
 
-<h2>Screenshots of the Project 📸</h2>
-<br>
-<h3 align='center'>Home Page 🏡</h3>
+## Screenshots
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/218077675-f50ac9ae-8d2c-4196-aed8-f4490e142960.png'/>
+Welcome to my awesome project. Here are some screenshots to give you a glimpse of what it looks like:
 
-</div>
+
+![Screenshot 1](src/images/part1.png)
+
+![Screenshot 2](src/images/part2.png)
+
+![Screenshot 3](src/images/part3.png)
+
+![Screenshot 4](src/images/part4.png)
+
+
+## Installation
+
+Here is the detailed process of how you can install this design in your machine.
+
+```bash
+# Clone the repository
+git clone https://github.com/sumanbalayar08/car_rental_web.git
+
+# Navigate to the project directory
+cd car_rental_web
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
